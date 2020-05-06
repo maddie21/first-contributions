@@ -8,6 +8,7 @@
 | 🇮🇳 | [മലയാളം](README.ml.md) |
 | 🇮🇳 | [తెలుగు](README.te.md) |
 | 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
+| 🇮🇳 🇱🇰 | [தமிழ்](README.ta.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
@@ -16,6 +17,8 @@
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
 | 🇧🇬 | [Bulgarian](translations/README.bg.md) |
+| 🇲🇰 | [Македонски](README.mk.md) |
+| 🇭🇺 | [Magyar](translations/README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
@@ -44,6 +47,7 @@
 | 🇲🇾 | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
 | 🇨🇿 | [Czech](README.cs.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
+| 🇳🇴 | [Norsk](README.no.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
